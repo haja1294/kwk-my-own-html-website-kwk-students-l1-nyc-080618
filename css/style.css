@@ -3,6 +3,7 @@ li {
 }
 
 li a{
+  float:left;
     border-right: none;
 
 }
