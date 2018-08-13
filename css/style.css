@@ -17,6 +17,7 @@
 }
 
 li{
+  list-style-type: none;
   text-align: center;
   color:#513BD4;
   font-size:36px;
