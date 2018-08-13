@@ -10,3 +10,7 @@
  font-size:20px;
  color:#A793FF;
 }
+
+#grad {
+    background: linear-gradient(red, yellow);
+}
