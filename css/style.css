@@ -13,3 +13,7 @@
 #grad{
     background: linear-gradient(to bottom right, #A7DEFF, #A798FF);
 }
+
+#body{
+  border: 3px solid black;
+}
